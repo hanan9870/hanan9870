@@ -4,7 +4,26 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Sotware Engineering Student At UTM University
 ---------------------------------------------
 
-👩‍💻 Software Engineering Student | Universiti Teknologi Malaysia 🚀 Hello! I'm Hanan Osama, a dedicated Software Engineering student at Universiti Teknologi Malaysia. My educational journey has taken me through various institutions, shaping my passion for technology and coding. As a former 🎓 Head of Academic Affairs at Khartoum University's Students Club and active participant in cultural events, I bring a diverse perspective to my software development endeavors. Education: 🏫 Universiti Teknologi Malaysia, Software Engineering (Current) 🏢 Khartoum University, Department of Mathematics (1 year) 🏫 Omdurman Public School, Secondary Education (1 year) 🏫 Alraith Public School, Primary, Middle, and Secondary Education (11 years) Positions: 🎓 Head of Academic Affairs at Khartoum University Students Club 🥈 Silver Member in Arabic Culture Day 🥈 Silver Member in Culture Corner Day 🥇 Golden Member in Sudanese Fasting Day Skills: 💻 Programming: Java, C++ 🌐 Web Development: HTML, CSS, JavaScript 🎨 Design: Adobe Illustrator c. Recommended: Courses, Certificates, ... Courses: 🚀 Learn C++ Programming - Beginner to Advance - Deep Dive in C++ by Abdul Bari 🌐 The Complete 2024 Web Development Bootcamp by Dr. Angela Yu
+👩‍💻 Software Engineering Student | Universiti Teknologi Malaysia 🚀 Hello! I'm Hanan Osama, a dedicated Software Engineering student at Universiti Teknologi Malaysia.
+My educational journey has taken me through various institutions, shaping my passion for technology and coding.
+As a former 🎓 Head of Academic Affairs at Khartoum University's Students Club and active participant in cultural events, I bring a diverse perspective to my software development endeavors.
+Education:
+🏫 Universiti Teknologi Malaysia, Software Engineering (Current) 
+🏢 Khartoum University, Department of Mathematics (1 year) 
+🏫 Omdurman Public School, Secondary Education (1 year) 
+🏫 Alraith Public School, Primary, Middle, and Secondary Education (11 years) 
+Positions: 
+🎓 Head of Academic Affairs at Khartoum University Students Club 
+🥈 Silver Member in Arabic Culture Day 
+🥈 Silver Member in Culture Corner Day 
+🥇 Golden Member in Sudanese Fasting Day
+Skills:
+💻 Programming: Java, C++ 
+🌐 Web Development: HTML, CSS, JavaScript 
+🎨 Design: Adobe Illustrator 
+ Courses:
+ 🚀 Learn C++ Programming - Beginner to Advance - Deep Dive in C++ by Abdul Bari 
+ 🌐 The Complete 2024 Web Development Bootcamp by Dr. Angela Yu
 
 * 🌍  I'm based in Universiti Teknologi Malaysia
 * ✉️  You can contact me at [hussein.h@graduate.utm.my](mailto:hussein.h@graduate.utm.my)
