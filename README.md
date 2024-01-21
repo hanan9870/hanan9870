@@ -5,30 +5,8 @@ Sotware Engineering Student At UTM University
 ---------------------------------------------
 
 👩‍💻 Software Engineering Student | Universiti Teknologi Malaysia 🚀 Hello! I'm Hanan Osama, a dedicated Software Engineering student at Universiti Teknologi Malaysia.
-My educational journey has taken me through various institutions, shaping my passion for technology and coding.
-As a former 🎓 Head of Academic Affairs at Khartoum University's Students Club and active participant in cultural events, I bring a diverse perspective to my software development endeavors.
-Education:
-🏫 Universiti Teknologi Malaysia, Software Engineering (Current) 
-🏢 Khartoum University, Department of Mathematics (1 year) 
-🏫 Omdurman Public School, Secondary Education (1 year) 
-🏫 Alraith Public School, Primary, Middle, and Secondary Education (11 years) 
-Positions: 
-🎓 Head of Academic Affairs at Khartoum University Students Club 
-🥈 Silver Member in Arabic Culture Day 
-🥈 Silver Member in Culture Corner Day 
-🥇 Golden Member in Sudanese Fasting Day
-Skills:
-💻 Programming: Java, C++ 
-🌐 Web Development: HTML, CSS, JavaScript 
-🎨 Design: Adobe Illustrator 
- Courses:
- 🚀 Learn C++ Programming - Beginner to Advance - Deep Dive in C++ by Abdul Bari 
- 🌐 The Complete 2024 Web Development Bootcamp by Dr. Angela Yu
+I'm a Software Engineering student at Universiti Teknologi Malaysia with a passion for coding and a knack for exploring the ever-evolving realms of technology. My educational journey has taken me from Khartoum University's Department of Mathematics to various stages of public school, shaping my diverse background. My skills encompass Java, C++, web development with HTML, CSS, and JavaScript, as well as design using Adobe Illustrator. I've honed my craft through courses like Abdul Bari's in-depth C++ programming and Dr. Angela Yu's comprehensive 2024 Web Development Bootcamp. Notable achievements include earning Silver Member status in events like Arabic Culture Day and Culture Corner Day, and achieving the prestigious Golden Member recognition in Sudanese Fasting. My GitHub profile is a testament to my coding enthusiasm and tech exploration journey. 🚀
 
-* 🌍  I'm based in Universiti Teknologi Malaysia
-* ✉️  You can contact me at [hussein.h@graduate.utm.my](mailto:hussein.h@graduate.utm.my)
-
-### Skills
 
 
 <p align="left">
